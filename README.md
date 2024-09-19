@@ -4,13 +4,18 @@ Table of Contents
 
 Problem Statements
 Exercise 1: Design Patterns Implementation
+
 Behavioral Design Patterns
 Creational Design Patterns
 Structural Design Patterns
+
 Exercise 2: Astronaut Daily Schedule Organizer
+
 Features
 Design Patterns Used
+
 How to Run the Code
+
 Conclusion
 
 Problem Statements
