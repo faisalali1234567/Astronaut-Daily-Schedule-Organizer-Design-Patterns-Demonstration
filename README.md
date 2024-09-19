@@ -1,4 +1,4 @@
-Astronaut Daily Schedule Organizer & Design Patterns Demonstration
+# Astronaut Daily Schedule Organizer & Design Patterns Demonstration
 
 Table of Contents
 
